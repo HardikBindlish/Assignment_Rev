@@ -1,6 +1,7 @@
 # Authentication with React Js and Django
 #backend 
-#virtual env
+
+#virtualenv env
 
 #env\Scripts\activate
 
